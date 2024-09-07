@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Asendia",
+      "path": "../../images/shipLogo/asendia.png"
+    },
+    {
+      "name": "Ups",
+      "path": "../../images/shipLogo/ups.png"
+    },
+    {
+      "name": "FedEx",
+      "path": "../../images/shipLogo/fedex.png"
+    },
+    {
+      "name": "TNT",
+      "path": "../../images/shipLogo/tnt.png"
+    }
+   
+  ]
+  
