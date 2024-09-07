@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5200cae0.css",
+    "main.js": "/static/js/main.1493848c.js",
+    "static/js/651.3b9668a8.chunk.js": "/static/js/651.3b9668a8.chunk.js",
+    "static/media/landingpage.png": "/static/media/landingpage.3e1373a1e3660e0e7b17.png",
+    "static/media/thecontimg.png": "/static/media/thecontimg.7ed601992d768539c348.png",
+    "static/media/logo.png": "/static/media/logo.fc6b38857ae0b4da3c0c.png",
+    "index.html": "/index.html",
+    "main.5200cae0.css.map": "/static/css/main.5200cae0.css.map",
+    "main.1493848c.js.map": "/static/js/main.1493848c.js.map",
+    "651.3b9668a8.chunk.js.map": "/static/js/651.3b9668a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5200cae0.css",
+    "static/js/main.1493848c.js"
+  ]
+}
